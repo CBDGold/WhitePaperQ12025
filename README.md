@@ -182,7 +182,7 @@ Web3 Education: Workshops to help cannabis businesses integrate blockchain solut
 
 Exclusive Perks & NFTs: Premium experiences for WEED holders, including event access and collectible NFTs.
 
-- Sustainability & Social Impact: Supporting cannabis legalisation efforts and equity-focused initiatives.
+- Sustainability & Social Impact: Supporting cannabis decriminilisation / legalisation efforts and equity-focused initiatives.
 
 
 7. Future Roadmap – Where We’re Headed
@@ -192,9 +192,9 @@ HEMP & WEED are designed for long-term sustainability and growth.
 2025 Milestones
 
 - ✅ Soft Launch on Rug.Ninja – Completed
-- 🚀 Official Launch on Vestige – Target: April 20, 2025
-- 🌿 Retail & Brand Partnerships – Q2/Q3 2025
-- 🎨 NFT Integration & Digital Collectibles – Late 2025
+- 🚀 Official Launch on Vestige – Target: April 20, 2025 (FAILED)
+- 🌿 Retail & Brand Partnerships – Q2/Q3 2025 (PASSED)
+- 🎨 NFT Integration & Digital Collectibles – Late 2025 (COMING SOON)
 - 🌎 DAO Governance & Community Treasury – 2026
 
 Beyond 2025
