@@ -192,16 +192,16 @@ HEMP & WEED are designed for long-term sustainability and growth.
 2025 Milestones
 
 - ✅ Soft Launch on Rug.Ninja – Completed
-- 🚀 Official Launch on Vestige – Target: April 20, 2025 (FAILED)
-- 🌿 Retail & Brand Partnerships – Q2/Q3 2025 (PASSED)
-- 🎨 NFT Integration & Digital Collectibles – Late 2025 (COMING SOON)
-- 🌎 DAO Governance & Community Treasury – 2026
+- 🚀 Official Launch on Vestige – Target: April 20, 2025 (FAILED / NEW DATE TBC)
+- 🌿 Retail & Brand Partnerships – Q2/Q3 2025 (Completing/Ongoing)
+- 🎨 NFT Integration & Digital Collectibles – Late 2025 (Integration COMING SOON)
+- 🌎 DAO Governance & 420 Community Vault Treasury – 2026
 
 Beyond 2025
 
 - 💡 Cross-Chain Expansion: Potential multi-blockchain compatibility.
 - 📈 Advanced DeFi Features: Enhanced staking and lending integrations.
-- 🏆 Cultural Significance: Positioning WEED as the premier cannabis token.
+- 🏆 Cultural Significance: Positioning WEED & HEMP as the premier cannabis tokens on Algorand.
 
 
  8. Join the Revolution!
